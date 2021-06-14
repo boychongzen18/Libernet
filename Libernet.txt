@@ -30,5 +30,5 @@ libernet
 ganti libernet lama
 contoh libernet-old
 copy paste libernet yg baru
-buka Mobile SFTP & Login
+buka WinSCP & Login
 cari folder libernet & kirim ke Folder www
