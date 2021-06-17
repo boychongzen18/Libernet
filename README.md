@@ -13,6 +13,8 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Libernet/main/non.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Libernet/main/v2ray.jpg)
 
+# Tampil Libernet Edit PingLoop Windows
+![be](https://raw.githubusercontent.com/boychongzen18/Libernet/main/pingloop.jpg)
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
