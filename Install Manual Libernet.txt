@@ -1,0 +1,13 @@
+Install Manual Libernet Mod di Windows & Android
+
+Tester APK Mobile SFTP & WinSCP
+
+Creator Boychongzen aka Xroot
+
+Install link di bawah
+
+opkg update && wget -O install-libermod https://raw.githubusercontent.com/hanifwidi17/libermod/main/install-libermod -q && bash install-libermod 
+
+ganti music di folder music
+
+cd /www/libernet/music/nama music anda
