@@ -23,7 +23,7 @@
 
 Link Tutorial : https://youtu.be/oc-ZqcJAL8k
 
-Link Tutorial Libernet MOD : https://youtu.be/8K2nBzA6tB8
+Link Tutorial Libernet MOD : https://youtu.be/gC27nyRZi8Y
 
 My Website    : https://hackingforlive.wordpress.com
 
