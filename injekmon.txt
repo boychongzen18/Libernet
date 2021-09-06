@@ -1,0 +1,21 @@
+
+Cara Setting Injekmon di Libernet Anti Bengong
+
+1.Khusus Android Install Mobile SFTP
+2.Khusus PC / Laptop Install WinSCP
+
+Buka & Edit
+/etc/rc.local
+
+Buka & Edit
+/root/injekmon.txt
+
+Buka & Edit
+/usr/bin/injekmon
+/usr/bin/serviceinjekmon
+
+Buka Putty Khusus Windows & Termux Khusus Android
+
+injekmon ip Akun Injeksi
+
+htop
