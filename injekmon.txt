@@ -4,6 +4,9 @@ Cara Setting Injekmon di Libernet Anti Bengong
 1.Khusus Android Install Mobile SFTP
 2.Khusus PC / Laptop Install WinSCP
 
+Install Injekmon
+https://github.com/laksa19/openwrt-tools/tree/main/injekmon
+
 Buka & Edit
 /etc/rc.local
 
