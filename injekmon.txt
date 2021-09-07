@@ -3,6 +3,9 @@ Cara Setting Injekmon di Libernet Anti Bengong
 
 1.Khusus Android Install Mobile SFTP
 2.Khusus PC / Laptop Install WinSCP
+3.Download PuTTY Khusus PC / Laptop
+4.Download Termux , JusSSH Khusus Android
+
 
 Install Injekmon
 https://github.com/laksa19/openwrt-tools/tree/main/injekmon
@@ -21,4 +24,10 @@ Buka Putty Khusus Windows & Termux Khusus Android
 
 injekmon ip Akun Injeksi
 
-htop
+Stop Libernet
+
+Buka PuTTY
+
+Ketik > killall -q serviceinjekmon
+
+Ketik htop > Kill > F9
