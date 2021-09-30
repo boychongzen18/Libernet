@@ -20,8 +20,6 @@ copy paste libernet yg baru
 buka Mobile SFTP & Login
 cari folder libernet & kirim ke Folder www
 
-buat stop libernet
-killall service.sh bash $(LIBERNET_DIR)/bin/log.sh -s 0
 
 
 Via PC/Laptop & Putty
