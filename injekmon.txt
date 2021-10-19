@@ -6,6 +6,10 @@ Cara Setting Injekmon di Libernet Anti Bengong
 3.Download PuTTY Khusus PC / Laptop
 4.Download Termux Atau JuiceSSH Khusus Android
 
+Sudah Uji SNI di Fw 18 & 19 Working
+
+Author Boychongzen aka Xroot
+
 
 Install Injekmon
 https://github.com/laksa19/openwrt-tools/tree/main/injekmon
