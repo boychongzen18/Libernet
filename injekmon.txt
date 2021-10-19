@@ -20,6 +20,14 @@ Buka & Edit
 /usr/bin/injekmon
 /usr/bin/serviceinjekmon
 
+Ganti PingLoop
+
+cd root/libernet/ping-loop.sh << Cara & Edit Tulisan dibawah
+
+INTERVAL="1"
+HOST="IP AKUN"
+
+
 Buka Putty Khusus Windows & Termux Khusus Android
 
 injekmon ip Akun Injeksi
