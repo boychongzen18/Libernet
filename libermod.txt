@@ -1,14 +1,19 @@
 
-Cara Setting Injekmon di Libernet Anti Bengong
+
+Cara Setting Libernet Anti Bengong ( IP WAN GAK MUNCUL )
+
+Setting Libernet Mod
+
+
+Creator Boychongzen aka Xroot
+
+
 
 1.Khusus Android Install Mobile SFTP
 2.Khusus PC / Laptop Install WinSCP
 3.Download PuTTY Khusus PC / Laptop
 4.Download Termux Atau JuiceSSH Khusus Android
 
-Cara Setting Libernet Anti Bengong ( IP WAN GAK MUNCUL )
-
-Setting Libernet Mod
 
 
 1. Login Libernet
