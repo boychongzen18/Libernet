@@ -1,0 +1,17 @@
+Pilot BugHost Tiktok Websocket 
+
+Sudah di Tester di Android & STB OpenWRT
+
+PROPATCH wss://v24.muscdn.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+
+Server Spoof
+‌v24.muscdn.com
+
+Server Remote
+104.16.157.77:443
+
+NB : Sudah Support Libernet SSH-WS-CDN
+
+Happy Surfing
+
+Regards Boychongzen aka Xroot
