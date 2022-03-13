@@ -2,6 +2,8 @@ Pilot BugHost Garis Websocket
 
 Sudah di Tester di Android & STB OpenWRT
 
+Support Operator Telkomsel & XL
+
 Payload 
 PROPATCH wss://cdntest40.line-scdn.net/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
 
@@ -10,6 +12,7 @@ cdntest40.line-scdn.net
 
 Server Remote
 104.18.27.90:443
+104.18.26.90:443
 
 NB : Sudah Support Libernet SSH-WS-CDN
 
