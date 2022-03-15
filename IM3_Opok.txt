@@ -1,0 +1,15 @@
+Pilot BugHost Opok IM3 Websocket 
+
+Sudah di Tester di Android & STB OpenWRT
+
+PROPATCH wss://202.152.162.239/ipisat/ramadhan/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+
+
+Server Remote
+202.152.162.239:443
+
+NB : Sudah Support Libernet SSH-WS-CDN
+
+Happy Surfing
+
+Regards Boychongzen aka Xroot
