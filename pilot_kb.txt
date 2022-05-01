@@ -2,7 +2,7 @@ Pilot BugHost BELAJAR Websocket
 
 Sudah di Tester di Android & STB OpenWRT
 
-POST wss://skillacademy.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+PATCH wss://skillacademy.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
 
 Server Spoof
 ‌skillacademy.com
