@@ -1,0 +1,19 @@
+Pilot BugHost Genflix Websocket 
+
+Sudah di Tester di Android & STB OpenWRT
+
+Payload 
+PATCH wss://beta.genflix.co.id/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+
+Server Spoof
+beta.genflix.co.id
+
+Server Remote
+104.21.30.242:443
+172.67.174.51:443
+
+NB : Sudah Support Libernet SSH-WS-CDN
+
+Happy Surfing
+
+Regards Boychongzen aka Xroot
