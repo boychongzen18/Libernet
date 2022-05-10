@@ -1,0 +1,20 @@
+Pilot BugHost XL AKRAB Websocket 
+
+Support : Combo Lite , WLG & FLEX
+
+Sudah di Tester di Android & STB OpenWRT
+
+Payload 
+PATCH wss://‌info.vosslawoffice.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+
+Server Spoof
+‌info.vosslawoffice.com
+
+Server Remote
+104.16.15.194:443
+
+NB : Sudah Support Libernet SSH-WS-CDN
+
+Happy Surfing
+
+Regards Boychongzen aka Xroot
