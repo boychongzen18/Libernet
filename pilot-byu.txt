@@ -4,6 +4,8 @@ Sudah di Tester di Android & STB OpenWRT
 
 Support Operator Byu
 
+Cara Ke 1
+
 Payload 
 PROPATCH wss://space.byu.id/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
 
@@ -13,6 +15,26 @@ space.byu.id
 Server Remote
 
 162.159.138.78:443
+
+sg-public3.sshws.net:443@username:pwd
+
+======================================================================================================
+Cara Ke 2
+
+GET wss://space.byu.id/ HTTP/1.1[crlf]Host: sg-public3.sshws.net[crlf]Upgrade: websocket[crlf][crlf]
+
+Server Spoof
+space.byu.id
+
+Server Remote
+
+162.159.138.78:443
+
+
+162.159.138.78:443@username:pwd
+
+
+======================================================================================================
 
 NB : Sudah Support Libernet SSH-WS-CDN
 
