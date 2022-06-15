@@ -37,7 +37,11 @@ Server Remote
 ======================================================================================================
 
 NB : Sudah Support Libernet SSH-WS-CDN
+     Gak Konek Ganti IP Support TKP Masing2
 
 Happy Surfing
 
 Regards Boychongzen aka Xroot
+
+
+
