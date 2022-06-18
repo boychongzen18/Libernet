@@ -1,5 +1,7 @@
 Pilot BugHost BELAJAR Websocket 
 
+Support Opsel : Tsel & Byu
+
 Sudah di Tester di Android & STB OpenWRT
 
 PATCH wss://skillacademy.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
